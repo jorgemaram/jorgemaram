@@ -2,7 +2,11 @@
 
 I'm a tech-lover that it’s approaching to programming and web development, going one step further in my professional career after 5 years working in different positions inside the customer service, management and hospitalities field. It is the moment to reinvent myself, not only speaking in Spanish, English or French, but also computer languages (Javascript).
 
-### Skills
+## Find me on
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jorgemaram)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jorge-martin-ramirez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jorgemaram)  
+
+## Skills
 
 <img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430400/fotos-webuild/html5_ytcnla.svg' alt='HTML5' height='40'>
 
