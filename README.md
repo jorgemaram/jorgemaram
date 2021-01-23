@@ -18,7 +18,5 @@ I'm a tech-lover that it’s approaching to programming and web development, goi
 
 <img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430404/fotos-webuild/visualstudiocode_b7aoyg.svg' alt='visual studio code' height='40'><img src='https://res.cloudinary.com/jorgemaram/image/upload/v1611430400/fotos-webuild/git_a7b1jy.svg' alt='git' height='40'>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jorgemaram)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jorge-martin-ramirez/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/jorgemaram)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgemaram&theme=slateorange)](https://github.com/anuraghazra/github-readme-stats)![GitHub stats](https://github-readme-stats.vercel.app/api?username=jorgemaram&show_icons=true&theme=slateorange)  
 
